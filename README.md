@@ -29,9 +29,3 @@
 * scikit-image
 * pandas
 * sklearn
-
-### 3.方案思路
-
-[方案讲解](https://mp.weixin.qq.com/s/7GhXMXQkBgH_JVcKMjCejQ)
-
-知乎专栏：[ML与DL成长之路](https://zhuanlan.zhihu.com/c_1138029910563020800
