@@ -29,3 +29,5 @@
 * scikit-image
 * pandas
 * sklearn
+
+添加了打包编译的APK文件，有些兴趣可下载APP
